@@ -1,6 +1,9 @@
 Twinkle Twinkle
 How I wonder what you are?
 Up above the wonder sky
+<<<<<<< HEAD
 Like a diamond in the sky
 Fifth Line added
 This is a bad line
+=======
+>>>>>>> parent of c624a71 (forth line added)
